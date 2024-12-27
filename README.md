@@ -8,11 +8,11 @@
 
 - 📫 How to reach me **4381hdinesh@gmail.com**
 
-- ⚡ Fun fact **My personality type is ESTJ-A**
+- ⚡ Fun fact **I enjoy rollerskating in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshini-dinesh-04a931204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini-dinesh-04a931204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshini-dinesh-04a931204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini-dinesh-04a931204/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
