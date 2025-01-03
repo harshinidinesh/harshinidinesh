@@ -1,7 +1,6 @@
 ![MasterHead](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Harshini Dinesh</h1>
 <h3 align="center">Aspiring Financial Analyst/Data Scientist Specializing in Investment Strategies and Business Intelligence</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1TujrdQbmRJzXoKb7RFZL13UWuspCnP_R/view?usp=sharing">
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1563986768711-b3bde3dc821e?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshinidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="harshinidinesh" /> </p>
 
