@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **advanced Python techniques on AI and ML, SQL, and database design.**
 
-- 📝 I regularly publish my recipes and writing on [passionglitters.weebly.com](passionglitters.weebly.com) and my photography on [Instagram](https://www.instagram.com/its.hd_v1/?igsh=MTRveXJqNzN5d3ZreQ%3D%3D&utm_source=qr#)
+- 📝 I regularly publish my recipes and writing on [passionglitters.weebly.com](passionglitters.weebly.com) and my photography on [its.hd_v1](https://www.instagram.com/its.hd_v1/?igsh=MTRveXJqNzN5d3ZreQ%3D%3D&utm_source=qr#)
 
 - 📫 How to reach me **dinesh.h@northeastern.edu**
 
