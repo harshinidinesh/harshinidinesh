@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **advanced Python techniques on AI and ML, SQL, and database design.**
 
-- 📝 I regularly publish my recipes and writing on [passionglitters.weebly.com](passionglitters.weebly.com)
+- 📝 I regularly publish my recipes and writing on [passionglitters.weebly.com](passionglitters.weebly.com) and my photography on [https://www.instagram.com/its.hd_v1/?igsh=MTRveXJqNzN5d3ZreQ%3D%3D&utm_source=qr#]
 
 - 📫 How to reach me **dinesh.h@northeastern.edu**
 
-- ⚡ Fun fact **I enjoy rollerskating and reading books in my free time.**
+- ⚡ Fun fact **I enjoy rollerskating and reading mystery books in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
