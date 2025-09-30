@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1563986768711-b3bde3dc821e?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshinidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="harshinidinesh" /> </p>
 
-- 🔭 I’m currently working on **a data science project analyzing mental health care across the United States.**
+- 🔭 I’m currently working on **a data science project that tracks cryptocurrencies to help users build their ideal portfolio.**
 
-- 🌱 I’m currently learning **advanced Python techniques on AI and ML, SQL, R, and database design.**
+- 🌱 I’m currently learning **advanced Python techniques on AI and ML, SQL, and database design.**
 
 - 📝 I regularly publish my recipes and writing on [passionglitters.weebly.com](passionglitters.weebly.com)
 
